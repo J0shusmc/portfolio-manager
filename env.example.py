@@ -9,10 +9,10 @@ INSTRUCTIONS:
 This template shows the required configuration variables for the Portfolio Manager application.
 """
 
-# TD Ameritrade API Credentials
-# Get these from: https://developer.tdameritrade.com/
-app_key = "YOUR_TD_AMERITRADE_APP_KEY_HERE"
-app_secret = "YOUR_TD_AMERITRADE_APP_SECRET_HERE"
+# Charles Schwab API Credentials
+# Get these from: https://developer.schwab.com/
+app_key = "YOUR_CHARLES_SCHWAB_APP_KEY_HERE"
+app_secret = "YOUR_CHARLES_SCHWAB_APP_SECRET_HERE"
 callback_url = "https://127.0.0.1"
 account_nbr = "YOUR_ACCOUNT_NUMBER_HERE"
 
