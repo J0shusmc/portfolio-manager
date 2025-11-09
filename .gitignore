@@ -1,0 +1,33 @@
+# Environment and credentials
+env.py
+ENV.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+tokens.json
+openpositions.txt
+scanner.txt
+watchlist.txt
